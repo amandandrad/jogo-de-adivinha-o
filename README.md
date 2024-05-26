@@ -13,4 +13,3 @@ Projeto desenvolvido durante os estudos do Stage 5 na trilha Explorer da Rockets
 - HTML e CSS
 - JavaScript
 - Git e Github
-# jogo-de-adivinha-o
