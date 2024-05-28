@@ -85,6 +85,11 @@ input {
   border-radius: 0.4rem 0 0 0.4rem;
 }
 
+input:focus {
+  outline: none;
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.115);
+}
+
 /* screen2*/
 
 h2 {
